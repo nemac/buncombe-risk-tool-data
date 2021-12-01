@@ -5,6 +5,12 @@
     <UserStyle>
       <se:Name>pop_sqmi_wnc</se:Name>
       <se:FeatureTypeStyle>
+	    <se:Rule>
+          <se:Name>Median Household Income</se:Name>
+          <se:Description>
+            <se:Title>Median Household Income</se:Title>
+          </se:Description>
+        </se:Rule>
         <se:Rule>
           <se:Name>0 - 225</se:Name>
           <se:Description>
